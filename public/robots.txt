@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nyawiji.com/sitemap.xml

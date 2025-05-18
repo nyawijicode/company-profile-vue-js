@@ -1,0 +1,7 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M30 10C18.954 10 10 18.954 10 30C10 41.046 18.954 50 30 50C41.046 50 50 41.046 50 30C50 18.954 41.046 10 30 10Z" fill="#3498DB"/>
+  <path d="M30 15C21.716 15 15 21.716 15 30C15 38.284 21.716 45 30 45C38.284 45 45 38.284 45 30C45 21.716 38.284 15 30 15Z" fill="#FFFFFF"/>
+  <path d="M30 20C24.477 20 20 24.477 20 30C20 35.523 24.477 40 30 40C35.523 40 40 35.523 40 30C40 24.477 35.523 20 30 20Z" fill="#3498DB"/>
+  <text x="60" y="32" font-family="Arial" font-size="18" font-weight="bold" fill="#2C3E50">Nyawiji</text>
+  <text x="60" y="46" font-family="Arial" font-size="12" fill="#7F8C8D">Web Solutions</text>
+</svg>
