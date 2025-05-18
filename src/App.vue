@@ -1,10 +1,21 @@
 <template>
   <router-view />
+  <ScrollToTop />
 </template>
 
 <script>
+import ScrollToTop from '@/components/ScrollToTop.vue'
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    ScrollToTop
+  },
+  mounted() {
+    // Scroll to top on route change
+    this.$router.afterEach(() => {
+      window.scrollTo(0, 0);
+    });
+  }   
 }
 </script>
 
